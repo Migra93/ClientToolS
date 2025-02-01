@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|c:\\users\\michael.grabinger\\source\\repos\\portabletool\\clientdebugtool\\views\\registrytool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|solutionrelative:views\\registrytool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|c:\\users\\michael.grabinger\\source\\repos\\portabletool\\clientdebugtool\\views\\registrytool.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|solutionrelative:views\\registrytool.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|c:\\users\\michael.grabinger\\source\\repos\\portabletool\\clientdebugtool\\views\\intunetool.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|solutionrelative:views\\intunetool.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|c:\\users\\michael.grabinger\\source\\repos\\portabletool\\clientdebugtool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|c:\\users\\michael.grabinger\\source\\repos\\portabletool\\clientdebugtool\\views\\intunetool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|solutionrelative:views\\intunetool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|c:\\users\\michael.grabinger\\source\\repos\\portabletool\\clientdebugtool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B24FB2B-D3BE-41E7-B56E-ABD50CCDF459}|ClientDebugTool.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntuneTool.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\IntuneTool.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\IntuneTool.xaml.cs",
+              "ToolTip": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\IntuneTool.xaml.cs",
+              "RelativeToolTip": "Views\\IntuneTool.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:19:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntuneTool.xaml",
+              "DocumentMoniker": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\IntuneTool.xaml",
+              "RelativeDocumentMoniker": "Views\\IntuneTool.xaml",
+              "ToolTip": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\IntuneTool.xaml",
+              "RelativeToolTip": "Views\\IntuneTool.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:59:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistryTool.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\RegistryTool.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegistryTool.xaml.cs",
+              "ToolTip": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\RegistryTool.xaml.cs",
+              "RelativeToolTip": "Views\\RegistryTool.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:52:30.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistryTool.xaml",
+              "DocumentMoniker": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\RegistryTool.xaml",
+              "RelativeDocumentMoniker": "Views\\RegistryTool.xaml",
+              "ToolTip": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\Views\\RegistryTool.xaml",
+              "RelativeToolTip": "Views\\RegistryTool.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T17:53:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T16:16:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\michael.grabinger\\source\\repos\\PortableTool\\ClientDebugTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:16:46.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

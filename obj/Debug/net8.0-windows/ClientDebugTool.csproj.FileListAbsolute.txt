@@ -1,0 +1,10 @@
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\Views\IntuneTool.baml
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\Views\NetworkTool.baml
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\Views\RegistryTool.baml
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\Views\IntuneTool.g.cs
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\Views\NetworkTool.g.cs
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\Views\RegistryTool.g.cs
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\ClientDebugTool_MarkupCompile.cache
+C:\Users\michael.grabinger\source\repos\PortableTool\ClientDebugTool\obj\Debug\net8.0-windows\ClientDebugTool_MarkupCompile.lref
